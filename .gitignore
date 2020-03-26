@@ -9,10 +9,10 @@
 _roadhog-api-doc
 
 # production
-/dist
+# /dist
 /.vscode
-/es
-/lib
+# /es
+# /lib
 
 # misc
 .DS_Store
