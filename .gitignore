@@ -43,5 +43,5 @@ screenshot
 .firebase
 example/.temp/*
 .eslintcache
-lib/**
-es/**
+# lib/**
+# es/**
