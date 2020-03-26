@@ -30,6 +30,10 @@ nav:
 
 <code src="./example/russian.tsx" />
 
+## Malay
+
+<code src="./example/malay.tsx" />
+
 ## toolbar 搜索
 
 <code src="./example/search.tsx" />
